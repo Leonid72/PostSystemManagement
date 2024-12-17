@@ -15,7 +15,7 @@ Post System Management is an Angular application that allows users to create, ed
 - **Frontend**: Angular 18
   - Angular Forms (Reactive Forms)
   - Bootstrap for styling
-  - Tailwind CSS for layout
+  - bootstrap  CSS for layout
   - RxJS for reactive programming
   - Angular HTTP Client for API calls
   - Angular Animations for UI transitions
