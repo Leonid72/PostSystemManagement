@@ -1,0 +1,74 @@
+[
+  {
+    "PostItemId": 1,
+    "Title": "Community Clean-up Event",
+    "Content": "Join us this Saturday for a community clean-up! Let's make our neighborhood a cleaner and greener place.",
+    "ImagePath": "/images/community-cleanup.jpg",
+    "PlaceId": 1,
+    "CreatedAt": "2024-12-10T09:30:00",
+    "CreatedBy": "JohnDoe"
+  },
+  {
+    "PostItemId": 2,
+    "Title": "Photo Walk by the Bridge",
+    "Content": "Let's capture some stunning photos of the Golden Gate Bridge at sunrise this Sunday morning.",
+    "ImagePath": "/images/golden-gate-walk.jpg",
+    "PlaceId": 2,
+    "CreatedAt": "2024-12-09T18:45:00",
+    "CreatedBy": "JaneSmith"
+  },
+  {
+    "PostItemId": 3,
+    "Title": "Yosemite Camping Adventure",
+    "Content": "Looking for adventure lovers to join a weekend camping trip at Yosemite National Park.",
+    "ImagePath": "/images/yosemite-camping.jpg",
+    "PlaceId": 3,
+    "CreatedAt": "2024-12-08T14:20:00",
+    "CreatedBy": "AlexBrown"
+  },
+  {
+    "PostItemId": 4,
+    "Title": "Sunset Yoga at Waikiki Beach",
+    "Content": "Join our sunset yoga session at Waikiki Beach every Friday evening at 6:00 PM.",
+    "ImagePath": "/images/waikiki-yoga.jpg",
+    "PlaceId": 4,
+    "CreatedAt": "2024-12-07T11:00:00",
+    "CreatedBy": "EmilyClark"
+  },
+  {
+    "PostItemId": 5,
+    "Title": "Central Park Art Show",
+    "Content": "Check out the local artists' exhibition at Central Park this weekend. Live music and food trucks will be available!",
+    "ImagePath": "/images/central-park-art.jpg",
+    "PlaceId": 1,
+    "CreatedAt": "2024-12-06T06:30:00",
+    "CreatedBy": "MichaelTaylor"
+  },
+  {
+    "PostItemId": 6,
+    "Title": "Golden Gate History Tour",
+    "Content": "Discover the history of the Golden Gate Bridge on this guided walking tour. Reservations are required.",
+    "ImagePath": "/images/golden-gate-tour.jpg",
+    "PlaceId": 2,
+    "CreatedAt": "2024-12-05T15:15:00",
+    "CreatedBy": "SarahLee"
+  },
+  {
+    "PostItemId": 7,
+    "Title": "Nature Hike in Yosemite",
+    "Content": "Experience the beauty of Yosemite with a guided nature hike. Suitable for all skill levels.",
+    "ImagePath": "/images/yosemite-hike.jpg",
+    "PlaceId": 3,
+    "CreatedAt": "2024-12-04T17:00:00",
+    "CreatedBy": "DavidJohnson"
+  },
+  {
+    "PostItemId": 8,
+    "Title": "Beach Volleyball at Waikiki",
+    "Content": "Join the weekly beach volleyball meetup at Waikiki Beach! Everyone is welcome to join the fun.",
+    "ImagePath": "/images/waikiki-volleyball.jpg",
+    "PlaceId": 4,
+    "CreatedAt": "2024-12-03T20:50:00",
+    "CreatedBy": "RachelGreen"
+  }
+]

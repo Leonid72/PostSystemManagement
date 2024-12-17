@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\assets\\images\\community-cleanup.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\community-cleanup.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\assets\\images\\waikiki-yoga.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\waikiki-yoga.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\assets\\images\\yosemite-camping.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\yosemite-camping.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\download.jpeg",
+      "PackagePath": "staticwebassets\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\central-park-art.jpg",
+      "PackagePath": "staticwebassets\\images\\central-park-art.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\community-cleanup.jpg",
+      "PackagePath": "staticwebassets\\images\\community-cleanup.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\images\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\golden-gate-tour.jpg",
+      "PackagePath": "staticwebassets\\images\\golden-gate-tour.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\golden-gate-walk.jpg",
+      "PackagePath": "staticwebassets\\images\\golden-gate-walk.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\waikiki-volleyball.jpg",
+      "PackagePath": "staticwebassets\\images\\waikiki-volleyball.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\waikiki-yoga.jpg",
+      "PackagePath": "staticwebassets\\images\\waikiki-yoga.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\yosemite-camping.jpg",
+      "PackagePath": "staticwebassets\\images\\yosemite-camping.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\images\\yosemite-hike.jpg",
+      "PackagePath": "staticwebassets\\images\\yosemite-hike.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\PostSystemManagement\\API\\wwwroot\\uploads\\central-park-art.jpg",
+      "PackagePath": "staticwebassets\\uploads\\central-park-art.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

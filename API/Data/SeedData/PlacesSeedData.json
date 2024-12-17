@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Central Park",
+    "Latitude": 40.785091,
+    "Longitude": -73.968285
+  },
+  {
+    "Id": 2,
+    "Name": "Golden Gate Bridge",
+    "Latitude": 37.819929,
+    "Longitude": -122.478255
+  },
+  {
+    "Id": 3,
+    "Name": "Yosemite National Park",
+    "Latitude": 37.865101,
+    "Longitude": -119.538329
+  },
+  {
+    "Id": 4,
+    "Name": "Waikiki Beach",
+    "Latitude": 21.276723,
+    "Longitude": -157.827539
+  }
+]
