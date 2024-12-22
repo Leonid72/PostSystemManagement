@@ -20,7 +20,7 @@ Post System Management is an Angular application that allows users to create, ed
   - Angular HTTP Client for API calls
   - Angular Animations for UI transitions
 - **Backend**: .NET Core (API for managing posts)
-- **Database**: SQL Server or any relational database (if applicable)
+- **Database**: UseSqlite
 - **Image Upload**: Cloudinary (or any image storage solution)
 
 ## Installation
